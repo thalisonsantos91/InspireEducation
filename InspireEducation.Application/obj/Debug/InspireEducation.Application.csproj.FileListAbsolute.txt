@@ -1,0 +1,14 @@
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\bin\Debug\InspireEducation.Application.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\bin\Debug\InspireEducation.Application.pdb
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\bin\Debug\InspireEducation.Core.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\bin\Debug\InspireEducation.Infrastructure.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\bin\Debug\InspireEducation.Core.pdb
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\bin\Debug\InspireEducation.Infrastructure.pdb
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\obj\Debug\InspireEducation.Application.csproj.AssemblyReference.cache
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\obj\Debug\InspireEducation.Application.csproj.CoreCompileInputs.cache
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\obj\Debug\InspireE.18575FDC.Up2Date
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\obj\Debug\InspireEducation.Application.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Application\obj\Debug\InspireEducation.Application.pdb

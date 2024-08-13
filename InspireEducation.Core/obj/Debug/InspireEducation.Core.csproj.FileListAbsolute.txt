@@ -1,0 +1,10 @@
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Core\bin\Debug\InspireEducation.Core.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Core\bin\Debug\InspireEducation.Core.pdb
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Core\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Core\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Core\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Core\obj\Debug\InspireEducation.Core.csproj.AssemblyReference.cache
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Core\obj\Debug\InspireEducation.Core.csproj.CoreCompileInputs.cache
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Core\obj\Debug\InspireE.7B5A4BEB.Up2Date
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Core\obj\Debug\InspireEducation.Core.dll
+C:\Users\thali\OneDrive\Desktop\Doc. Thalison\Estudos\LUISDEV CURSOS\Projetos\InspireEducation\InspireEducation.Core\obj\Debug\InspireEducation.Core.pdb

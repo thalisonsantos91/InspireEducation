@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.API\\InspireEducation.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.API\\InspireEducation.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.API\\InspireEducation.API.csproj",
+        "projectName": "InspireEducation.API",
+        "projectPath": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.API\\InspireEducation.API.csproj",
+        "packagesPath": "C:\\Users\\thali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.cigamgestor.com.br/Gestor.Api.Nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Application\\InspireEducation.Application.csproj": {
+                "projectPath": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Application\\InspireEducation.Application.csproj"
+              },
+              "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Core\\InspireEducation.Core.csproj": {
+                "projectPath": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Core\\InspireEducation.Core.csproj"
+              },
+              "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Infrastructure\\InspireEducation.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Infrastructure\\InspireEducation.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Application\\InspireEducation.Application.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Application\\InspireEducation.Application.csproj",
+        "projectName": "InspireEducation.Application",
+        "projectPath": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Application\\InspireEducation.Application.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Core\\InspireEducation.Core.csproj": {
+                "projectPath": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Core\\InspireEducation.Core.csproj"
+              },
+              "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Infrastructure\\InspireEducation.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Infrastructure\\InspireEducation.Infrastructure.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Core\\InspireEducation.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Core\\InspireEducation.Core.csproj",
+        "projectName": "InspireEducation.Core",
+        "projectPath": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Core\\InspireEducation.Core.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Infrastructure\\InspireEducation.Infrastructure.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Infrastructure\\InspireEducation.Infrastructure.csproj",
+        "projectName": "InspireEducation.Infrastructure",
+        "projectPath": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Infrastructure\\InspireEducation.Infrastructure.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Core\\InspireEducation.Core.csproj": {
+                "projectPath": "C:\\Users\\thali\\OneDrive\\Desktop\\Doc. Thalison\\Estudos\\LUISDEV CURSOS\\Projetos\\InspireEducation\\InspireEducation.Core\\InspireEducation.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9ChD8FZ14nfVStyv2JG6d3qyKeQ730Pp5rHlPOrsStg=",
+  "Source": "InspireEducation.API",
+  "BasePath": "_content/InspireEducation.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
