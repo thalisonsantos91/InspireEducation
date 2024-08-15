@@ -30,8 +30,6 @@ namespace InspireEducation.Core.Entities
         public List<VideoLesson> VideoLessons { get; set; }
         public Course Course { get; set; }
 
-
-
         public void Update(string name, string description)
         {
             Name = name;

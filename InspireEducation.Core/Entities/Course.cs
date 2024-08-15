@@ -28,7 +28,7 @@ namespace InspireEducation.Core.Entities
         public DateTime? UpdatedAt { get; private set; }
         public DateTime? InactivatedAt { get; private set; }
         public Subscription Subscription {  get; private set; }
-        public List<Module> Modules { get; set; }
+        public List<Module> Module { get; set; }
 
         public void Update(string name, string description)
         {
